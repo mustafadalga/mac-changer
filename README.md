@@ -1,4 +1,4 @@
-# mac-changer
+# Mac Changer
 Bilgisayarınızda kullanılan arayüzlerin mac adreslerini değiştirmenizi sağlayan bir python scripti.
 
 
